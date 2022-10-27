@@ -16,14 +16,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Wishlist app is 🎨 **customized** 🎨
+- [x] Wishlist app is 🎨 **customized** 🎨
 - [ ] User can delete an item by long pressing on the item
 - [ ] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
-
+* App did not work properly but all the code was done as corretly as possible.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
